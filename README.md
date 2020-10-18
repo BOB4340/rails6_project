@@ -24,4 +24,5 @@ Things you may want to cover:
 * ...
 ==================
 This section is added to test the changes of this fil. It is another change
-This is to test the update of readme on repo on rails test project
+This is to test the update of readme on repo on rails test project.
+there is an another update.
